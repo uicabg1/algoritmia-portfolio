@@ -11,13 +11,13 @@ Este portafolio contiene 25 algoritmos implementados en PSeInt que demuestran mi
 
 ## Estructura del Portafolio
 
-### [Ejercicios de Vectores](ejercicios-vectores/)
+### [Ejercicios de Vectores]
 10 algoritmos que trabajan con arreglos unidimensionales
 
-### [Ejercicios de Matrices](ejercicios-matrices/)
+### [Ejercicios de Matrices]
 10 algoritmos que trabajan con arreglos bidimensionales
 
-### [Ejercicios Extra](ejercicios-extra/)
+### [Ejercicios Extra]
 5 algoritmos originales creados específicamente para este portafolio
 
 ## Reflexión del Aprendizaje
